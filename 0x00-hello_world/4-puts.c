@@ -3,7 +3,7 @@
   *main-serves as entry point for the programme
   *
   *Return: By default, return zero if no error otherwise returns non-zero
-  value.
+  *value.
   */
 int main(void)
 {
