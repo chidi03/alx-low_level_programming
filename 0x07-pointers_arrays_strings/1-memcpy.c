@@ -6,11 +6,11 @@
  * @n: the number of bytes to copy from @src.
  * Return: a pointer to the destination buffer @dest
  */
-char *_memcpy(char *dest, char *src, size_t n)
+void *_memcpy(void *dest, const void *src, size_t n)
 {
 	unsigned int index;
 	unsigned char *destination = dest;
-	unsigned char *source = src;
+	const unsigned char *source = src;
 
 	for  (index = 0; index < n; index++)
 		destination[index] = source[index];
