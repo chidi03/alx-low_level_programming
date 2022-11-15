@@ -4,7 +4,7 @@
 /**
  * file: 1-pi.h
  * auth: chidi03
- * desc: header file that defines a macro named PI as an abbreviation for 
+ * desc: header file that defines a macro named PI as an abbreviation for
  *		the token 3.14159265359.
  */
 
