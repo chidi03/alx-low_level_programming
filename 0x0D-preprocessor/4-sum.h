@@ -4,7 +4,7 @@
 /*
  * file: 4-sum.h
  * auth: chidi03
- * desc: header file that defines a function-like macro SUM(x, y) that 
+ * desc: header file that defines a function-like macro SUM(x, y) that
  *		computes the sum of the numbers x and y.
  */
 
